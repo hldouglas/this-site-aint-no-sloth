@@ -6,10 +6,18 @@ html {
 }
 
 h1, figcaption {
-  font-family: "Georgia", serif;
+  font-family: Georgia, serif;
+}
+
+h1 {
+  color: #fff;
 }
 
 p, a {
-  font-family: "Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
   color: #000;
+}
+
+.banner-content {
+  background: linear-gradient(to top, rgba(28, 14, 0, 0), rgba(28, 14, 0, 1));
 }
