@@ -1,0 +1,15 @@
+html {
+  background-image: url("../images/sloth-bg.svg");
+  background-repeat: repeat;
+  background-color: #bea586;
+  background-size: 48px;
+}
+
+h1, figcaption {
+  font-family: "Georgia", serif;
+}
+
+p, a {
+  font-family: "Verdana", sans-serif;
+  color: #000;
+}
